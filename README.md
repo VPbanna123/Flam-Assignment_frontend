@@ -20,14 +20,9 @@
 
 > **Click the thumbnail to watch the 60–90s walkthrough on Google Drive** (no large file committed to the repo to keep the deployment light).
 
-[![Watch Demo — LearnForge](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/YOUR_DRIVE_FILE_ID/view?usp=sharing)
+[![Watch Demo — LearnForge](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GClziu_9H2kQYZn_PGk_hPbxOSzvvGcR/view?usp=sharing)
 
-**Direct link:** `https://drive.google.com/file/d/YOUR_DRIVE_FILE_ID/view?usp=sharing`
-
-> Replace `YOUR_DRIVE_FILE_ID` with your Drive file ID. Make sharing `Anyone with the link → Viewer` before submission. The thumbnail above is a Drive badge — clicking it opens the Drive player; you can also replace the badge with a custom YouTube-style thumbnail if you prefer:
-> ```md
-> [![LearnForge Demo](https://drive.google.com/thumbnail?id=YOUR_DRIVE_FILE_ID&sz=w1000)](https://drive.google.com/file/d/YOUR_DRIVE_FILE_ID/view?usp=sharing)
-> ```
+**Direct link:** https://drive.google.com/file/d/1GClziu_9H2kQYZn_PGk_hPbxOSzvvGcR/view?usp=sharing
 
 **What’s inside (60–90s):** paste messy notes → pick card count + quiz count + difficulty → Generate → flip cards with Space / ← → → switch to Quiz → answer → Submit → explainers → Retest wrong → show Saved sessions → show error path (empty / offline).
 
@@ -664,4 +659,4 @@ Add the deployed URL to the top of this README and to your video captions.
 
 MIT — assignment submission.
 
-> **Setup recap:** `npm install` → `cp .env.example .env` → set `GROQ_API_KEY` or `GEMINI_API_KEY` → `npm run dev` → open `http://localhost:5173` → paste notes → pick **Cards** + **Quiz** counts + difficulty → **Generate** → study. Don’t forget to update the Demo Video Drive link at the top with your `YOUR_DRIVE_FILE_ID`!
+> **Setup recap:** `npm install` → `cp .env.example .env` → set `GROQ_API_KEY` or `GEMINI_API_KEY` → `npm run dev` → open `http://localhost:5173` → paste notes → pick **Cards** + **Quiz** counts + difficulty → **Generate** → study.
